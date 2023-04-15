@@ -16,3 +16,9 @@ Other good starter programs:
 * Fizzbuzz.
 * Date sorting.
 * Fibonacci.
+
+
+## References
+
+* https://www.rust-lang.org/learn
+* https://doc.rust-lang.org/reference/introduction.html
