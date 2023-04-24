@@ -17,7 +17,4 @@ fn main() {
 
     let result = fibonacci(n);
     println!("Function: The {}th Fibonacci number is: {}", n, result);
-
-    let mac_result = fibonacci!(n);
-    println!("Macro: The {}th Fibonacci number is: {}", n, mac_result);
 }
