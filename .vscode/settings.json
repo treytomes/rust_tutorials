@@ -1,0 +1,5 @@
+{
+	"rust-analyzer.linkedProjects": [
+		".\\07-opengl\\lib\\gl\\Cargo.toml"
+	]
+}
